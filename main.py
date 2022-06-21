@@ -20,29 +20,6 @@ def data():
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 root=Tk()
 root.title("Translator")
 root.geometry('500x700+300+250')
